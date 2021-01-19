@@ -37,7 +37,7 @@ CommonDriver cmnDriver;
 	
 	@Test
 	public void searchProduct() throws Exception{
-		String product = "Samsung";
+		String product = "Xiomi";
 		String category = "Electronics";
 		
 		homepage.searchProduct(product, category);
